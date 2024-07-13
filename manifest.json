@@ -1,0 +1,11 @@
+{
+    "name":"Cric Extension",
+    "version":"1.0.0",
+    "description":"My Cric Extension",
+    "manifest_version":3,
+    "author":"vaibhav singh",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cric Extension"
+    }
+}
